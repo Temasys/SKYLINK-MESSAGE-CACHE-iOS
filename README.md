@@ -1,8 +1,8 @@
 # SKYLINK_MESSAGE_CACHE
 
 [![Version](https://img.shields.io/cocoapods/v/SKYLINK_MESSAGE_CACHE.svg?style=flat)](https://cocoapods.org/pods/SKYLINK_MESSAGE_CACHE)
-[![License](https://img.shields.io/cocoapods/l/SKYLINK_MESSAGE_CACHE.svg?style=flat)](https://cocoapods.org/pods/SKYLINK-MESSAGE-CACHE)
-[![Platform](https://img.shields.io/cocoapods/p/SKYLINK_MESSAGE_CACHE.svg?style=flat)](https://cocoapods.org/pods/SKYLINK-MESSAGE-CACHE)
+[![License](https://img.shields.io/cocoapods/l/SKYLINK_MESSAGE_CACHE.svg?style=flat)](https://cocoapods.org/pods/SKYLINK_MESSAGE_CACHE)
+[![Platform](https://img.shields.io/cocoapods/p/SKYLINK_MESSAGE_CACHE.svg?style=flat)](https://cocoapods.org/pods/SKYLINK_MESSAGE_CACHE)
 
 ## Requirements
 Minimum iOS version 10.0 or higher.
