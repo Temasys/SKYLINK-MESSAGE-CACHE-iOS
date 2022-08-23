@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SKYLINK_MESSAGE_CACHE'
-  s.version          = '1.0.1-beta'
+  s.version          = '1.0.1'
   s.summary          = 'SKYLINK_MESSAGE_CACHE.framework distribution.'
 
 # This description is used to generate tags and improve search results.
@@ -25,8 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Temasys Communications' => 'lakindu@temasys.com.sg' }
-  # s.source           = { :git => 'https://github.com/lakinduboteju/SKYLINK-MESSAGE-CACHE-iOS.git', :tag => s.version.to_s }
-  s.source           = { :git => 'https://github.com/lakinduboteju/SKYLINK-MESSAGE-CACHE-iOS.git' }
+  s.source           = { :git => 'https://github.com/Temasys/SKYLINK-MESSAGE-CACHE-iOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
