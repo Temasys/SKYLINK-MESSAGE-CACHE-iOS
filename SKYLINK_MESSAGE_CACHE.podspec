@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   SKYLINK_MESSAGE_CACHE.framework distribution for iOS.
                        DESC
 
-  s.homepage         = 'https://github.com/lakinduboteju/SKYLINK-MESSAGE-CACHE-iOS'
+  s.homepage         = 'https://github.com/Temasys/SKYLINK-MESSAGE-CACHE-iOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Temasys Communications' => 'lakindu@temasys.com.sg' }
